@@ -12,7 +12,7 @@ Studies show that only 9% of plastic is accurately sorted. In order to fix this 
 
 # Hardware Components 
 - Raspberry Pi (including breadboard, push buttons to activate sortor and camera, jumper wires to connect push buttons to motor)
-- Camera Board 
+- Camera
 - Motor to move trash to its proper bin
 - SD Card
 - USB-C power supply
