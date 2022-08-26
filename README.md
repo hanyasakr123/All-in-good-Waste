@@ -24,3 +24,10 @@ Over the course of six weeks, we were able to:
 - train the computer to reach 94% accuracy
 - attach a functioning camera that recognizes and sorts trash
 - connect a motor to move left/right depending on the category of recycling and dispose of it in its proper bin.
+
+# References 
+
+references for the code used and the project included:
+
+1. https://www.digikey.ca/en/maker/projects/make-a-pi-trash-classifier-with-machine-learning-and-lobe/9029e053c23845e98bea70c5cabfb555
+2. https://www.hackster.io/mjrobot/playing-with-electronics-rpi-gpio-zero-library-tutorial-f984c9
