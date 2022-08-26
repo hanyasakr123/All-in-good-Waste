@@ -19,8 +19,8 @@ Studies show that only 9% of plastic is accurately sorted. In order to fix this 
 
 # Process
 Over the course of six weeks, we were able to: 
-- set up a Raspberry Pi to the internet and download 2500 pics of recycling from Lobe.A. 
-- install Winspc and VNV viewer to communicate with Raspberry PI. 
-- train the computer to reach 94% accuracy.
-- attach a functioning camera that recognizes and sorts trash,
-- and connect a motor to move left/right depending on the category of recycling and dispose of it in its proper bin.
+- set up a Raspberry Pi to the internet and download 2500 pics of recycling from Lobe.A
+- install Winspc and VNV viewer to communicate with Raspberry PI
+- train the computer to reach 94% accuracy
+- attach a functioning camera that recognizes and sorts trash
+- connect a motor to move left/right depending on the category of recycling and dispose of it in its proper bin.
