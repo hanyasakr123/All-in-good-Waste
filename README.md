@@ -11,7 +11,7 @@ Studies show that only 9% of plastic is accurately sorted. In order to fix this 
 - Image Processing: Pictures using the Raspberry Pi camera is taken and sent back to the terminal for processing
 
 # Hardware Components 
-- Raspberry Pi (including breadboard, push buttons to activate sortor and camera, jumper wired to connect push buttons to motor)
+- Raspberry Pi (including breadboard, push buttons to activate sortor and camera, jumper wires to connect push buttons to motor)
 - Camera Board 
 - Motor to move trash to its proper bin
 - SD Card
